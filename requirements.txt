@@ -1,0 +1,17 @@
+betterpath==0.2.2
+certifi==2019.6.16
+chardet==3.0.4
+Click==7.0
+Flask==1.1.1
+Flask-Cache==0.13.1
+idna==2.5
+itsdangerous==1.1.0
+Jinja2==2.10.1
+l==0.11.0
+MarkupSafe==1.1.1
+requests2==2.16.0
+urllib3==1.21.1
+vcversioner==2.16.0.0
+Werkzeug==0.15.4
+xmltodict==0.12.0
+zope.interface==4.6.0
